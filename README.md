@@ -9,7 +9,9 @@ Pillow (for handling images)
 MySQL Connector for Python (for database connectivity)
 ### Prerequisites
 Python 3.11.4
+
 MySQL
+
 Required Python packages (tkinter)
 ### Usage
 Interface: Navigate through the interface to manage medicine records.
