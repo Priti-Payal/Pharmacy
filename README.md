@@ -23,6 +23,7 @@ Add/Update/Delete/Reset/SearchBy Medicines: Enter or modify details such as Refe
 Search Medicines: Use the search functionality(reference no and medicine name) to find specific medicines quickly.
 
 ## User Interface
-  #### Main Page
+  ### Main Page
+ ![Screenshot (64)](https://github.com/user-attachments/assets/633ac087-d967-48ac-b885-a16bb9459516)  
   
 
