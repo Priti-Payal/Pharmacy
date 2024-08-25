@@ -24,6 +24,9 @@ Search Medicines: Use the search functionality(reference no and medicine name) t
 
 ## User Interface
   ### Main Page
- ![Screenshot (64)](https://github.com/user-attachments/assets/633ac087-d967-48ac-b885-a16bb9459516)  
+ ![Screenshot (64)](https://github.com/user-attachments/assets/633ac087-d967-48ac-b885-a16bb9459516)
+ ### Add Option for medicine in datasets
+ ![Screenshot (65)](https://github.com/user-attachments/assets/69912653-af99-46cf-a9ae-b71742f4f4e0)
+
   
 
