@@ -2,7 +2,7 @@
 ### Introduction
 The Pharmacy Management System is a system developed using Python and MySQL, designed to streamline the operations of pharmacies by efficiently managing and storing crucial data related to medicines, so that pharmacy staff can easily add, update, and retrieve detailed information about various medications, including their names, categories, stock levels and expiration dates.
 ### Technologies Used
-Programming Language: Python
+.Programming Language: Python
 
 Database Management: MySQL
 
